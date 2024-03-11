@@ -1,0 +1,71 @@
+{
+  "datas": [
+    {
+      "buff_id": 10001,
+      "buff_type": 0,
+      "buff_time": 1,
+      "buff_name": "异常",
+      "buff_harm": 0.0,
+      "buff_info": "异常状态buff",
+      "buff_icon": "buff_abnormal",
+      "buff_decrease": -1,
+      "buff_increase": -1
+    },
+    {
+      "buff_id": 10002,
+      "buff_type": 1,
+      "buff_time": 300,
+      "buff_name": "出血",
+      "buff_harm": 1.0,
+      "buff_info": "每秒受到一定伤害,多层叠加",
+      "buff_icon": "buff_bleed",
+      "buff_decrease": 1,
+      "buff_increase": 1
+    },
+    {
+      "buff_id": 10003,
+      "buff_type": -1,
+      "buff_time": 300,
+      "buff_name": "冻伤",
+      "buff_harm": 1.5,
+      "buff_info": "每秒受到一定伤害,独立Buff",
+      "buff_icon": "buff_frozen",
+      "buff_decrease": 0,
+      "buff_increase": 0
+    },
+    {
+      "buff_id": 10004,
+      "buff_type": -1,
+      "buff_time": 360,
+      "buff_name": "燃烧",
+      "buff_harm": 1.8,
+      "buff_info": "每秒受到一定伤害,独立Buff",
+      "buff_icon": "buff_burn",
+      "buff_decrease": 0,
+      "buff_increase": 0
+    },
+    {
+      "buff_id": 10005,
+      "buff_type": 1,
+      "buff_time": 600,
+      "buff_name": "中毒",
+      "buff_harm": 0.5,
+      "buff_info": "每秒受到一定伤害,独立Buff",
+      "buff_icon": "buff_poison",
+      "buff_decrease": 1,
+      "buff_increase": 0
+    },
+    {
+      "buff_id": 10006,
+      "buff_type": 0,
+      "buff_time": 0,
+      "buff_name": "成长",
+      "buff_harm": 0.0,
+      "buff_info": "固定永久Buff",
+      "buff_icon": "buff_grow",
+      "buff_decrease": -1,
+      "buff_increase": -1
+    }
+  ],
+  "version": "20200331"
+}

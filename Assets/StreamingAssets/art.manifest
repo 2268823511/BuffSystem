@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1941419236
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 582fd9c15befca84acc27c3c37b456e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 18c78c32c345c3e7009f9655f5fb9e0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Art/buff_poison.png
+- Assets/Art/Prefabs/BuffImage.prefab
+- Assets/Art/buff_bleed.png
+- Assets/Art/buff_frozen.png
+- Assets/Art/buff_burn.png
+- Assets/Art/buff_abnormal.png
+- Assets/Art/buff_grow.png
+Dependencies: []
